@@ -1,0 +1,5 @@
+{
+    "port" : 5000,
+    "jwt_secret" : "verySecretKeyDoYouKnow" ,
+    "dbUrl" : "mongodb+srv://boyqoziyevs0:Vis3cxn5j4EOrAZZ@flowersonlineshop.azdlmuf.mongodb.net/"
+}    
