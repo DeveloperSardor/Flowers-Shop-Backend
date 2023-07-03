@@ -26,7 +26,7 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start" : "node server/server.js",
+    "start" : "node server/server.ts",
     "dev": "nodemon --ext * -e ts  -w ./src -x npm run watch:serve",
     "watch:serve": "ts-node-esm  src/server/server.ts"
   },
